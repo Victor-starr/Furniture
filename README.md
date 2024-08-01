@@ -91,14 +91,6 @@ npx mocha
 
 For Playwright browser automation, make sure to check the Playwright documentation for running end-to-end tests.
 
-## Contact
-
-For any questions or feedback, feel free to reach out to:
-
-- **Victor Dimitrov**
-  - **LinkedIn:** [victor-starr](https://linkedin.com/in/victor-starr)
-  - **GitHub:** [victor-starr](https://github.com/victor-starr)
-
 ---
 
 This documentation provides a clearer and more structured guide to setting up and using the Furniture Store SPA application.
