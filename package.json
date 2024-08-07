@@ -1,11 +1,8 @@
 {
-  "name": "01.furniture",
+  "name": "furniture",
   "version": "1.0.0",
-  "description": "",
+  "description": "The Furniture Store is a Single Page Application (SPA) built with JavaScript, HTML, CSS, and several modern libraries. The application allows users to perform various actions including login, registration, managing furniture items (create, edit, delete, search), and viewing details of both their own and other users' furniture. Authentication is implemented using local storage to store user credentials securely.",
   "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,12 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.5.0",
-    "lit-html": "^3.1.4",
-    "mocha": "^10.7.0",
+    "lit-html": "^3.2.0",
     "page": "^1.11.6"
-  },
-  "devDependencies": {
-    "playwright-chromium": "^1.45.3"
   }
 }
