@@ -13,9 +13,6 @@ The Furniture Store is a Single Page Application (SPA) built with JavaScript, HT
 
 ## Getting Started
 
-### To save you Time
-Run the file called `run.bat`. For first-time users, it will install the necessary node packages. On subsequent runs, it will start the server and open the website. **Highly recommended.**
-
 Follow the steps below to set up and run the Furniture Store application:
 
 ### 1. Install Dependencies
